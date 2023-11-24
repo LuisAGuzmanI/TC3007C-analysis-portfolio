@@ -11,15 +11,30 @@ Este repositorio contiene las actividades y entregas para el portafolio análisi
 ## Profesores
 * Ivan Mauricio Amaya Contreras
 * Blanca Rosa Ruiz Hernandez
-* Antonio Carlos Bento
-* Frumencio Olivas Alvarez
+* Félix Ricardo Botello Urrutia
+* Edgar Covantes Osuna
+* Felipe Castillo Rendón
 * Hugo Terashima Marín
+* Christian Carlos Mendoza Buenrostro
 
-## Estructura del repositoro
+## Entregables finales
 
-* Archivos:
-* * README.md: Este archivo
+* Reto
+    * [Privacidad y Seguridad de los Datos](./Reto/Reto%20Privacidad%20y%20Seguridad%20de%20los%20Datos.pdf)
 
-* Carpetas:
-* * Retroalimentación: Contiene los entregables iniciales para retroalimentación.
-* * Final: Contiene los entregables finales para la evaluación. Incluye correcciones solicitadas por los profesores.
+* Estadistica Avanzada
+    * [Actividad 1. La Normal Multivariada](./Estadistica%20Avanzada/Normal-Multivariada_A01741757.pdf)
+    * [Actividad 2. Componentes Principales](./Estadistica%20Avanzada/Componentes-Principales-A01741757.pdf)
+    * [Actividad 3. Proceso Poisson](./Estadistica%20Avanzada/Proceso-Poisson---A01741757.pdf)
+
+* Big Data
+    * [Actividad 1. Creación de un usuario en Linux](/BigData/Creación%20de%20usuario%20en%20Linux.pdf)
+    * [Actividad 2. Instalación de Spark en AWS](./BigData/Instalación%20de%20Spark%20en%20AWS.pdf)
+
+* Cloud Computing
+    * [Actividad. Cloud Migration](./Cloud%20Computing/CloudMigration_Equipo2.pdf)
+    * [Actividad. Diseño de Cloud](./Cloud%20Computing/DisenoCloud_Equipo2.pdf)
+
+## Momentos de retroalimentación
+* Reto
+    [* Privacidad y Seguridad de los Datos](./Retroalimentacion/Reto%20Privacidad%20y%20Seguridad%20de%20los%20Datos.pdf)
